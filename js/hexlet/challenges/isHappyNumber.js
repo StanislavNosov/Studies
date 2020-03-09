@@ -14,4 +14,4 @@ const isHappyNumber = (n) => {
     }
     return false;
 }
-export default isHappyNumber;
+export {squareDigits, sumOfSquareDigits, isHappyNumber};
